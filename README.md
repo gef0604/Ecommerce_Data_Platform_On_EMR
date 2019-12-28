@@ -1,1 +1,1 @@
-![Image text](https://github.com/gef0604/Ecommerce_Data_Platform_On_EMR/tree/master/images/cney.jpeg)
+![Image text](https://github.com/gef0604/Ecommerce_Data_Platform_On_EMR/blob/master/images/cney.jpeg)
