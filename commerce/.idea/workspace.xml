@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99e38f6f-2c9b-41f8-850f-ac874e10366a" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/commerce$AdClickRealTimeStat.coverage" NAME="AdClickRealTimeStat Coverage Results" MODIFIED="1509526746306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.stream.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SessionDetail</find>
+      <find>remove_random_prefix</find>
+      <find>concat_long_string</find>
+      <find>tmp_area_fullprod_click_count</find>
+      <find>String</find>
+      <find>;</find>
+      <find>utils</find>
+      <find>Administrator</find>
+      <find>SESSION_COUNT</find>
+      <find>PageSplitConvertRate</find>
+      <find>AdUserClickCount</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>wuyufei</replace>
+    </replaceStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Software/Maven/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectId" id="1VRyl81PDjrhY42qpY1E1EXN239" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="USERVIS&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/analyse/session/src/main/resources" />
+      <recent name="$PROJECT_DIR$/analyse/product/src/main/resources" />
+      <recent name="$PROJECT_DIR$/analyse/page/src/main/resources" />
+      <recent name="$PROJECT_DIR$/analyse/advertising/src/main/resources" />
+      <recent name="$PROJECT_DIR$/other/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.mock" />
+      <recent name="com.atguigu.commons.utils" />
+      <recent name="com.atguigu.commons.conf" />
+      <recent name="com.atguigu.commons.constant" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/analyse/advertising/src/main/resources" />
+      <recent name="$PROJECT_DIR$/commons/src/main/scala/com/atguigu/commons/model" />
+      <recent name="$PROJECT_DIR$/commons/src/main/resources" />
+      <recent name="$PROJECT_DIR$/commons/src/main/java/com/atguigu/commons/pool" />
+      <recent name="$PROJECT_DIR$/analyse/advertising/src/main/scala/com/atguigu/stream" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AdClickRealTimeStat">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="AdClickRealTimeStat" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.stream.AdClickRealTimeStat" />
+      <module name="advertising" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AreaTop3ProductApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.product.AreaTop3ProductApp" />
+      <module name="product" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateUtils" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.commons.utils.DateUtils" />
+      <module name="commons" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.commons.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockRealtimeDataGenerate" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mock.MockRealtimeDataGenerate" />
+      <module name="mock" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.mock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageOneStepConvertRate" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.page.PageOneStepConvertRate" />
+      <module name="page" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AreaTop3ProductApp" />
+      <item itemvalue="Application.PageOneStepConvertRate" />
+      <item itemvalue="Application.MockRealtimeDataGenerate" />
+      <item itemvalue="Application.AdClickRealTimeStat" />
+      <item itemvalue="Application.DateUtils" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MockRealtimeDataGenerate" />
+        <item itemvalue="Application.AdClickRealTimeStat" />
+        <item itemvalue="Application.DateUtils" />
+        <item itemvalue="Application.PageOneStepConvertRate" />
+        <item itemvalue="Application.AreaTop3ProductApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99e38f6f-2c9b-41f8-850f-ac874e10366a" name="Default" comment="" />
+      <created>1508894892129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508894892129</updated>
+      <workItem from="1508894893802" duration="1476000" />
+      <workItem from="1508899581262" duration="311000" />
+      <workItem from="1508909580532" duration="3504000" />
+      <workItem from="1508990741098" duration="1381000" />
+      <workItem from="1509000546011" duration="77986000" />
+      <workItem from="1509340863812" duration="16629000" />
+      <workItem from="1509411694479" duration="28676000" />
+      <workItem from="1509497209977" duration="11150000" />
+      <workItem from="1509513581172" duration="15305000" />
+      <workItem from="1509542066935" duration="62000" />
+      <workItem from="1509670314880" duration="8053000" />
+      <workItem from="1509680487608" duration="5169000" />
+      <workItem from="1509694189862" duration="7234000" />
+      <workItem from="1516085856844" duration="12127000" />
+      <workItem from="1516147619699" duration="23871000" />
+      <workItem from="1516237476636" duration="5398000" />
+      <workItem from="1516578951691" duration="16527000" />
+      <workItem from="1516665754458" duration="6235000" />
+      <workItem from="1517294993210" duration="10876000" />
+      <workItem from="1517357091455" duration="13904000" />
+      <workItem from="1517445069911" duration="6647000" />
+      <workItem from="1517464323210" duration="15794000" />
+      <workItem from="1517531995442" duration="31583000" />
+      <workItem from="1517615821913" duration="8453000" />
+      <workItem from="1517708173214" duration="5473000" />
+      <workItem from="1517788284704" duration="684000" />
+      <workItem from="1517790592688" duration="724000" />
+      <workItem from="1518307589729" duration="1124000" />
+      <workItem from="1518310180098" duration="17296000" />
+      <workItem from="1518357682227" duration="1858000" />
+      <workItem from="1518388755840" duration="8222000" />
+      <workItem from="1518480392444" duration="19254000" />
+      <workItem from="1518653128611" duration="8685000" />
+      <workItem from="1518869288588" duration="7537000" />
+      <workItem from="1519028637696" duration="23201000" />
+      <workItem from="1519193540274" duration="3954000" />
+      <workItem from="1519262564208" duration="256000" />
+      <workItem from="1519263425114" duration="17876000" />
+      <workItem from="1519372998065" duration="5023000" />
+      <workItem from="1519431773140" duration="13306000" />
+      <workItem from="1519519679858" duration="9907000" />
+      <workItem from="1519560996790" duration="22000" />
+      <workItem from="1519561064810" duration="585000" />
+      <workItem from="1577230352582" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>wuyufei</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mock</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
