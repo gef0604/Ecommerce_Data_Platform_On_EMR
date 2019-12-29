@@ -1,6 +1,8 @@
 # Data Platform - Spark on EMR
-Built a data platform on Amazon EMR. Coding and testing locally, then deply the application on EMR cluster.
+Built a data platform on Amazon EMR. Coding and testing locally, then deply the application on EMR cluster. Completed user sessions analysis, product analysis, convertion rate analysis and advertising traffic analysis.
 
+![step](https://github.com/gef0604/Ecommerce_Data_Platform_On_EMR/blob/master/images/step_length.png)
+## 
 ## Technologies
 | Name | Usage |
 | --- | --- |
