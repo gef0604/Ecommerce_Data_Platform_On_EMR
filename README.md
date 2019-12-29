@@ -16,14 +16,13 @@ Built a data platform on Amazon EMR. Coding and testing locally, then deply the 
 ### Amazon EMR
 - Launch a spark cluster which consists of three nodes.
 - Configure SSH for the master EC2 instance
-image
 
 ### Amazon Kinesis
 - Launch a Kineses Stream of 2 shards
 - Using Kineses Data Generator to generate sessions data
 
 ### Configure the pom.xml of Maven 
-- Import dependencies of Spark and other plugins
+- Import dependencies of Spark, Kinesis Data Generator and others.
 
 ## Requirements
 - User Sessions Analysys
