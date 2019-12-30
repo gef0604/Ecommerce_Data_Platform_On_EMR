@@ -1,5 +1,5 @@
 # Data Platform - Spark on EMR
-Built a data platform on Amazon EMR. Coding and testing locally, then deply the application on EMR cluster. Completed user sessions analysis, product analysis, convertion rate analysis and advertising traffic analysis.
+Built a data platform on Amazon EMR. Coding and testing locally, then deply the application on EMR cluster. Completed user sessions analysis, product analysis, convertion rate analysis and advertising traffic analysis. Finished the data visualization by Tableau. Below is display for parts of archivements.
 
  ![step](https://github.com/gef0604/Ecommerce_Data_Platform_On_EMR/blob/master/images/new%20dash.png)
  
